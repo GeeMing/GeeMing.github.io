@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://geeming.github.io/2016/08/17/test-resource-download/</loc>
+    
+    <lastmod>2016-08-17T00:03:25.976Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://geeming.github.io/2016/08/16/start-hexo/</loc>
     
-    <lastmod>2016-08-16T00:35:32.777Z</lastmod>
+    <lastmod>2016-08-16T23:59:23.467Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://geeming.github.io/about/index.html</loc>
+    
+    <lastmod>2016-08-16T02:07:33.472Z</lastmod>
     
   </url>
   
